@@ -8,7 +8,7 @@ I'm contributing to several Open Source projects pinned here and accidentially t
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varp&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varp&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varp&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varp&theme=github&utcOffeset=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varp&theme=github&utcOffset=3)
 
 
 <!--
