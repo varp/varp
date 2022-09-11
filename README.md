@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a software developer and IT consultant. Love PHP, Go, JS. I'm doing a lot of backend stuff and a little bit of DevOps. Also, I'm managing a small group of developers on a daily basis as a team-lead.
 
-I'm contributing to several OpenSource projects pinned there and accidentially to others, which interests me at some point of a time
+I'm contributing to several OpenSource projects pinned here and accidentially to others, which interests me at some point of a time
 
 ### Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varp&theme=github)
