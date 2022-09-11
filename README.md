@@ -1,10 +1,14 @@
 ### Hi there 👋
 I'm a software developer and IT consultant. Love PHP, Go, JS. I'm doing a lot of backend stuff and a little bit of DevOps. Also, I'm managing a small group of developers on a daily basis as a team-lead.
 
-I'm contributing to several OpenSource projects: [Nodejs plugin for SublimeText 3](https://github.com/varp/SublimeText-Nodejs), [A Yii2 wrapper for implementing an OAuth2 Server](https://github.com/filsh/yii2-oauth2-server), and some others are pinned there.
+I'm contributing to several OpenSource projects pinned there and accidentially to others, which interests me at some point of a time
 
 ### Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=varp&show_icons=true&include_all_commits=true)](https://vardan.dev)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=appleboy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=appleboy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=appleboy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=appleboy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=appleboy&theme=github)
 
 
 <!--
