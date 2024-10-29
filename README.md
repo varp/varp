@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software developer and IT consultant. Love PHP, Go, JS. I'm doing a lot of backend stuff and a little bit of DevOps. Also, I'm managing a small group of developers on a daily basis as a team lead.
+I'm a software developer and IT consultant. Love Go, TS. I'm doing a lot of backend stuff and a little bit of DevOps. Also, I'm managing a small group of developers on a daily basis as a team lead.
 
 I'm contributing to several Open Source projects pinned here and accidentially to others, which interests me at some point of a time.
 
